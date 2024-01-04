@@ -1,19 +1,5 @@
 [
   {
-    "title": "Рецепт літньої пасти",
-    "rating": "Мелодрами , Субтитровані фільми",
-    "full_quality": "1080p",
-    "genre": "2022",
-    "img_url": "/uploads/mini/mainpics/bd/12e685c0a5246ead0184b40a14d808.jpg"
-  },
-  {
-    "title": "Все моє серце",
-    "rating": "Мелодрами , Субтитровані фільми",
-    "full_quality": "1080p",
-    "genre": "2021",
-    "img_url": "/uploads/mini/mainpics/28/035756f7f32f9b08822bc3fe8b49dc.jpg"
-  },
-  {
     "title": "День Святого Валентина",
     "rating": "5.7",
     "full_quality": "1080p",
@@ -68,5 +54,19 @@
     "full_quality": "1080p",
     "genre": "Мелодрами , Драми , Музичні , Біографія",
     "img_url": "/uploads/mini/mainpics/b2/aba716b78279153437125d96558a6a.jpg"
+  },
+  {
+    "title": "Ґрінберґ / Грінберг",
+    "rating": "6.2",
+    "full_quality": "HD 720p",
+    "genre": "Мелодрами , Комедія , Драми",
+    "img_url": "/uploads/mini/mainpics/bd/effa6b89ffbae58dc4001c59d34360.jpg"
+  },
+  {
+    "title": "Загін 10 з Наварон",
+    "rating": "6.4",
+    "full_quality": "HD 720p",
+    "genre": "Екшн , Пригоди , Військові , Драми , Трилери",
+    "img_url": "/uploads/mini/mainpics/64/8e92e56065825c87c27915316a77c1.jpg"
   }
 ]

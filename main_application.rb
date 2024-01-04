@@ -16,8 +16,8 @@ module MovieParser
     # Виділення елементів із назвами фільмів
     movie_elements = doc.css('div.movie-item.short-item')
 
-    # Parse each item
-    movie_elements[0, 10].each_with_index do |movie, index|
+    # Розбір кожного елемента
+    movie_elements[2, 10].each_with_index do |movie, index|
       item = Parser.parse_item(movie)
       puts "#{index + 1}. #{item.title} (Жанр - #{item.genre}, Рейтинг - #{item.rating})"
       cart.add_item(item)
